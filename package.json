@@ -1,0 +1,12 @@
+{
+  "name": "tool-print-at-terminal",
+  "version": "0.0.1",
+  "description": "在控制台中打印信息",
+  "main": "index.js",
+  "bin": {
+    "local-print": "./index.js"
+  },
+  "repository": "git@github.com:zhangran963/tool-print-at-terminal.git",
+  "author": "ran <zhangran963@gmail.com>",
+  "license": "MIT"
+}
